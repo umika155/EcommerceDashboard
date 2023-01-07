@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Simply click on the link to access the website: [eCommerce-dashboard](umika-dashboard.netlify.app)
+Simply click on the link to access the website: [eCommerce-dashboard](https://umika-dashboard.netlify.app)
 
 ## Available Scripts
 
